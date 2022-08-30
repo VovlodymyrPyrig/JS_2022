@@ -1,0 +1,220 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ecfffd;
+}
+.projects-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.project-bracket {
+    font-style: normal;
+    font-weight: normal;
+    font-size:  14px;
+    line-height: 24px;
+    color: #000000;
+}
+.project-span, .project-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.projects {
+    margin-bottom: 50px;
+}
+.project-link  {
+    margin-left: 10px;
+}
+.projects-list {
+    padding: 0;
+    margin-left: 15px;
+}
+.work-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+.work-list {
+    padding: 0;
+    margin-left: 15px;
+}
+.work-list-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.period {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 12px;
+    color: #727272;
+    margin-bottom: 10px;
+}
+
+.line {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.organization {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #c52e2e;
+}
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+.projects-item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.main-content {
+    padding: 105px 90px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    background-color: #FFFFFF;
+}
+.about{
+    margin-bottom: 40px;
+}
+.about-position {
+    font-style: normal;
+    size: 14px;
+    width: 80%;
+    height: 17px;
+    left: 498px;
+    top: 100px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+.about-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 25px;
+
+}
+.about-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+
+}
+.Main{
+    display: flex;
+    box-shadow: 6px 6px 20px;
+    background-color: #FFFFFF;
+    width: 1200px;
+    margin: 0 auto;
+    flex-direction: row-reverse;
+}
+.sidebar {
+    background-color: #071E06;
+    padding-top: 40px;
+    width: 370px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+}
+.photo {
+    width: 350px;
+    margin-bottom: 50px;
+    overflow: hidden;
+    transition: transform 1s;
+}
+.photo:hover {
+    transform: scale(1.16);
+}
+.sidebar-title {
+    color: #4D524D;
+    font-style: normal;
+    font-weight:  bold;
+    font-size:  22px;
+    line-height:  27px;
+    margin-bottom: 10px;
+}
+.contacts,
+.tech-skills,
+.soft-skills,
+.languages{
+    margin-left: 40px;
+}
+.contacts{
+    margin-bottom:  50px;
+}
+.contact-type {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+    color: #FFFFFF;
+}
+.contact-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    opacity: 0.7;
+    transition: 1s;
+}
+.contact-link:hover {
+    background: #009fad;
+}
+.tech-skills-list,
+.soft-skills-list{
+    color: #fff;
+    padding: 0;
+    margin-left: 17px;
+    font-weight: bold;
+}
+.tech-skills-item {
+    color: #C52E2EFF;
+}
+.tech-skills-text {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.soft-skills-item {
+    color: #C52E2EFF;
+}
+.soft-skills-text {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}

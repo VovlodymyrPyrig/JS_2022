@@ -131,7 +131,7 @@ body {
     display: flex;
     box-shadow: 6px 6px 20px;
     background-color: #FFFFFF;
-    width: 1200px;
+    width: 850px;
     margin: 0 auto;
     flex-direction: row-reverse;
 }

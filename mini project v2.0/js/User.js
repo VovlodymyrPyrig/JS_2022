@@ -47,7 +47,7 @@ buttonPosts.onclick = () =>{
 
                 let aPost = document.createElement('a');
                 aPost.innerText = 'postElement ';
-                aPost.href = 'post-details.html';
+                aPost.href = 'Post.html';
                 divPost.appendChild(aPost);
 
                 aPost.onclick = () =>{

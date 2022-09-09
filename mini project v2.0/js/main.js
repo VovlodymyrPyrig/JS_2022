@@ -47,7 +47,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
 
             let aElement = document.createElement('a');
             aElement.innerText = 'all information about this user';
-            aElement.href = 'user-details.html';
+            aElement.href = 'User.html';
             divA.appendChild(aElement);
 
             aElement.onclick =() =>{

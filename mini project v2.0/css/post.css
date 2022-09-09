@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+}
+.post{
+    width: 100%;
+    text-align: center;
+    background: #b2b0b0;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+.comments{
+    margin: 50px 0px 0px 0px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.comment{
+    margin: 0px 0px 10px 0px;
+    text-align: center;
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.comment:hover{
+    background: #b2b0b0;
+    transition: 0.5s;
+}
